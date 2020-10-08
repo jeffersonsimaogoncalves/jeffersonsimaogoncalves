@@ -1,7 +1,7 @@
 ### Olá sou o [Jefferson Simão Gonçalves][github] 👋
 
 Sou formado no curso de Ciencia da Computação pela FEMA na cidade de Assis.<br/>
-Trabalho como programador fullstack desde de 2012.
+Trabalho como programador fullstack.
 
 <!--
 **jeffersonsimaogoncalves/jeffersonsimaogoncalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

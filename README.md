@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Linguagem](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonsimaogoncalves&langs_count=10&custom_title=Linguagens+Mais+Usadas)](https://github.com/anuraghazra/github-readme-stats)
-
 ![Jefferson github stats](https://github-readme-stats.vercel.app/api?username=jeffersonsimaogoncalves&count_private=true&show_icons=true)
 
 [github]: https://github.com/jeffersonsimaogoncalves

@@ -18,6 +18,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Jefferson github stats](https://github-readme-stats.vercel.app/api?username=jeffersonsimaogoncalves&count_private=true&show_icons=false)
-
 [github]: https://github.com/jeffersonsimaogoncalves

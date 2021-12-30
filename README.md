@@ -13,6 +13,7 @@ Adoro novos desafios.
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jeffersonsimaogoncalves)
 [![Instagram](https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jeffersonsimaogoncalves/)
 [![Twitter](https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jsimaogoncalves)
+[![Whatsapp](https://img.shields.io/badge/-Whatsapp-4AC959?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/message/L6YUTOXGTADNM1)
 
 <!--
 **jeffersonsimaogoncalves/jeffersonsimaogoncalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

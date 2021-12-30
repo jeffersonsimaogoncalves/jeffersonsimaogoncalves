@@ -40,4 +40,4 @@ Here are some ideas to get you started:
 
 [![Visits Badge](https://badges.pufler.dev/visits/jeffersonsimaogoncalves/jeffersonsimaogoncalves?style=for-the-badge)](https://github.com/jeffersonsimaogoncalves/jeffersonsimaogoncalves)
 [![Repos Badge](https://badges.pufler.dev/repos/jeffersonsimaogoncalves?style=for-the-badge)](https://github.com/jeffersonsimaogoncalves?tab=repositories)
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/jeffersonsimaogoncalves)](https://github.com/jeffersonsimaogoncalves)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/jeffersonsimaogoncalves?style=for-the-badge)](https://github.com/jeffersonsimaogoncalves)

@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 
 <p align = "center">
   <a href="https://github.com/jeffersonsimaogoncalves"><img height="160" src="http://github-readme-streak-stats.herokuapp.com?user=jeffersonsimaogoncalves&theme=dracula&hide_border=true&date_format=j%2Fn%5B%2FY%5D"/></a>
-  <a href="https://github.com/jeffersonsimaogoncalves"><img height="160" src="https://github-profile-trophy.vercel.app/?username=jeffersonsimaogoncalves&theme=dracula&column=3"/></a><br/>
+  <a href="https://github.com/jeffersonsimaogoncalves"><img height="160" src="https://github-profile-trophy.vercel.app/?username=jeffersonsimaogoncalves&theme=dracula&column=5"/></a><br/>
   <a href="https://github.com/jeffersonsimaogoncalves"><img height="160" src="https://github-readme-stats.vercel.app/api?username=jeffersonsimaogoncalves&theme=dracula&count_private=true&show_icons=true&hide_title=false&line_height=27"/></a>
   <a href="https://github.com/jeffersonsimaogoncalves"><img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonsimaogoncalves&langs_count=15&theme=dracula&hide_title=false&layout=compact"/></a>
 </p>

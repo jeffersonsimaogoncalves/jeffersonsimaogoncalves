@@ -1,7 +1,9 @@
 ### Bem-vindo!!! 👋
 
 Sou o **Jefferson Simão Gonçalves**, moro em Assis/SP.
+
 Sou programador, atualmente trabalho com as tecnologias **Laravel**, **CakePHP**. 
+
 Adoro novos desafios.
 
 <!--

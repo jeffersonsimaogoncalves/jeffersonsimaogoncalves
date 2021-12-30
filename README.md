@@ -54,4 +54,4 @@ Here are some ideas to get you started:
 </p>
 
 
-[![Profile](https://github-profile-trophy.vercel.app/?username=jeffersonsimaogoncalves&theme=dracula)](https://github.com/jeffersonsimaogoncalves)
+[![Profile](https://github-profile-trophy.vercel.app/?username=jeffersonsimaogoncalves&theme=dracula&column=3)](https://github.com/jeffersonsimaogoncalves)

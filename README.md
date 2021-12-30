@@ -8,10 +8,10 @@ Adoro novos desafios.
 
 ### Meus contatos:
 
-[![Gmail](https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:gerson.simao.92@gmail.com)](mailto:gerson.simao.92@gmail.com)
-[![Linkedin](https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeffersonsimaogoncalves/)](https://www.linkedin.com/in/jeffersonsimaogoncalves/)
+[![Gmail](https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&labelColor=FF0000&logo=gmail&logoColor=white)](mailto:gerson.simao.92@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jeffersonsimaogoncalves/)
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jeffersonsimaogoncalves)
-
+[![Instagram](https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jeffersonsimaogoncalves/)
 
 <!--
 **jeffersonsimaogoncalves/jeffersonsimaogoncalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

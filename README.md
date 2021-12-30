@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 [![Jefferson Simão Gonçalves GitHub stats](https://github-readme-stats.vercel.app/api?username=jeffersonsimaogoncalves&theme=dracula&count_private=true&show_icons=true)](https://github.com/jeffersonsimaogoncalves)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonsimaogoncalves&langs_count=15&theme=dracula)](https://github.com/jeffersonsimaogoncalves)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonsimaogoncalves&langs_count=15&theme=dracula&custom_title=Linguagens%20Mais%20Utilizadas)](https://github.com/jeffersonsimaogoncalves)

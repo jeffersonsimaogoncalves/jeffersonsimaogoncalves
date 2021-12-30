@@ -31,9 +31,10 @@ Here are some ideas to get you started:
 ### Tecnologias:
 
 <p>
-  <img src="https://img.shields.io/badge/php%20-%2320232a.svg?&style=for-the-badge&logo=php"/>
-  <img src="https://img.shields.io/badge/cakephp%20-%2320232a?style=for-the-badge&logo=cakephp"/>
-  <img src="https://img.shields.io/badge/javascript%20-%2320232a.svg?&style=for-the-badge&logo=javascript"/>
+  <img src="https://img.shields.io/badge/php%20-%2320232a.svg?&style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/laravel%20-%2320232a?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/cakephp%20-%2320232a?style=for-the-badge&logo=cakephp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/javascript%20-%2320232a.svg?&style=for-the-badge&logo=javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/git%20-%2320232a.svg?&style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/github%20-%2320232a.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 </p>

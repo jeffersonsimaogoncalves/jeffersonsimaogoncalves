@@ -47,16 +47,8 @@ Here are some ideas to get you started:
 
 ### Minhas atividades:
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jeffersonsimaogoncalves&theme=dracula&hide_border=true&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
-
 <p align = "center">
+  <img height="160" src="http://github-readme-streak-stats.herokuapp.com?user=jeffersonsimaogoncalves&theme=dracula&hide_border=true&date_format=j%2Fn%5B%2FY%5D"/>
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=jeffersonsimaogoncalves&theme=dracula&count_private=true&show_icons=true&hide_title=false&line_height=27"/>
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonsimaogoncalves&langs_count=15&theme=dracula&hide_title=false&layout=compact"/>
 </p>
-
-### Meu Github Stats:
-
-[![Visits Badge](https://badges.pufler.dev/visits/jeffersonsimaogoncalves/jeffersonsimaogoncalves?style=for-the-badge)](https://github.com/jeffersonsimaogoncalves/jeffersonsimaogoncalves)
-[![Repos Badge](https://badges.pufler.dev/repos/jeffersonsimaogoncalves?style=for-the-badge)](https://github.com/jeffersonsimaogoncalves?tab=repositories)
-[![Commits Badge](https://badges.pufler.dev/commits/all/jeffersonsimaogoncalves?style=for-the-badge)](https://github.com/jeffersonsimaogoncalves)
-[![Years Badge](https://badges.pufler.dev/years/jeffersonsimaogoncalves?style=for-the-badge)](https://github.com/jeffersonsimaogoncalves)

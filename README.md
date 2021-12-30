@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 
 ### Meu Github Stats:
 
-[![Visits Badge](https://badges.pufler.dev/visits/jeffersonsimaogoncalves/jeffersonsimaogoncalves?style=for-the-badge)](https://github.com/jeffersonsimaogoncalves/jeffersonsimaogoncalves)
+[![Visits Badge](https://badges.pufler.dev/visits/jeffersonsimaogoncalves/jeffersonsimaogoncalves?style=for-the-badge&label=Visitas)](https://github.com/jeffersonsimaogoncalves/jeffersonsimaogoncalves)
 [![Repos Badge](https://badges.pufler.dev/repos/jeffersonsimaogoncalves?style=for-the-badge)](https://github.com/jeffersonsimaogoncalves?tab=repositories)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/jeffersonsimaogoncalves?style=for-the-badge)](https://github.com/jeffersonsimaogoncalves)
-[![Years Badge](https://badges.pufler.dev/years/jeffersonsimaogoncalves?style=for-the-badge)](https://github.com/jeffersonsimaogoncalves)
+[![Years Badge](https://badges.pufler.dev/years/jeffersonsimaogoncalves?style=for-the-badge&label=Anos)](https://github.com/jeffersonsimaogoncalves)

@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 <p>
   <img src="https://img.shields.io/badge/php%20-%23323330.svg?&style=for-the-badge&logo=php"/>
-  <img src="https://img.shields.io/badge/cakephp-%20-323330?style=for-the-badge&logo=cakephp"/>
+  <img src="https://img.shields.io/badge/cakephp-%20-%2323330?style=for-the-badge&logo=cakephp"/>
   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript"/>
   <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>

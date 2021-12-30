@@ -30,6 +30,8 @@ Here are some ideas to get you started:
 
 ### Minhas atividades:
 
-[![Jefferson Simão Gonçalves GitHub stats](https://github-readme-stats.vercel.app/api?username=jeffersonsimaogoncalves&theme=dracula&count_private=true&show_icons=true&custom_title=Jefferson%20Sim%C3%A3o%20Gon%C3%A7alves%20GitHub%20Stats)](https://github.com/jeffersonsimaogoncalves)
+[![Jefferson Simão Gonçalves GitHub stats](https://github-readme-stats.vercel.app/api?username=jeffersonsimaogoncalves&theme=dracula&count_private=true&show_icons=true&hide_title=false)](https://github.com/jeffersonsimaogoncalves)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonsimaogoncalves&langs_count=15&theme=dracula&custom_title=Linguagens%20Mais%20Utilizadas)](https://github.com/jeffersonsimaogoncalves)
+### Meus projetos por linguagens de programação:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonsimaogoncalves&langs_count=15&theme=dracula&hide_title=false)](https://github.com/jeffersonsimaogoncalves)

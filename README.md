@@ -47,9 +47,7 @@ Here are some ideas to get you started:
 
 ### Minhas atividades:
 
-  <a href="https://github.com/jeffersonsimaogoncalves"><img src="http://github-readme-streak-stats.herokuapp.com?user=jeffersonsimaogoncalves&theme=dracula&hide_border=true&date_format=j%2Fn%5B%2FY%5D"/></a><br/>
-  <a href="https://github.com/jeffersonsimaogoncalves"><img src="https://github-readme-stats.vercel.app/api?username=jeffersonsimaogoncalves&theme=dracula&count_private=true&show_icons=true&hide_title=false&line_height=27"/></a>
-  <a href="https://github.com/jeffersonsimaogoncalves"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonsimaogoncalves&langs_count=15&theme=dracula&hide_title=false&layout=compact"/></a>
-
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jeffersonsimaogoncalves&theme=dracula&hide_border=true&date_format=j%2Fn%5B%2FY%5D)](https://github.com/jeffersonsimaogoncalves)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeffersonsimaogoncalves&theme=dracula&count_private=true&show_icons=true&hide_title=false)](https://github.com/jeffersonsimaogoncalves)
+[![GitHub Stats Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonsimaogoncalves&langs_count=15&theme=dracula&hide_title=false)](https://github.com/jeffersonsimaogoncalves)
 [![Profile](https://github-profile-trophy.vercel.app/?username=jeffersonsimaogoncalves&theme=dracula&column=3)](https://github.com/jeffersonsimaogoncalves)

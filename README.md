@@ -36,7 +36,7 @@ Here are some ideas to get you started:
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonsimaogoncalves&langs_count=15&theme=dracula&hide_title=false&layout=compact"/>
 </p>
 
-### 😇 Meu Github Stats:
+### Meu Github Stats:
 
 [![Visits Badge](https://badges.pufler.dev/visits/jeffersonsimaogoncalves/jeffersonsimaogoncalves?style=for-the-badge)](https://github.com/jeffersonsimaogoncalves/jeffersonsimaogoncalves)
 [![Repos Badge](https://badges.pufler.dev/repos/jeffersonsimaogoncalves?style=for-the-badge)](https://github.com/jeffersonsimaogoncalves?tab=repositories)

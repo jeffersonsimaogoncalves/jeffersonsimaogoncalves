@@ -45,6 +45,9 @@ Here are some ideas to get you started:
   <a href="https://github.com/jeffersonsimaogoncalves"><img src="https://img.shields.io/badge/rfid%20-%2320232a?style=for-the-badge&logo=rfid"/></a>
 </p>
 
+### Sistema Operacionais:
+
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/jeffersonsimaogoncalves)
 
 ### Minhas atividades:
 

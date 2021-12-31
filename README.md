@@ -24,6 +24,7 @@ Adoro novos desafios.
 [![REDIS](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)](https://github.com/jeffersonsimaogoncalves)
 [![SQLITE](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](https://github.com/jeffersonsimaogoncalves)
 [![FIREBASE](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)](https://github.com/jeffersonsimaogoncalves)
+[![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge)](https://github.com/jeffersonsimaogoncalves)
 
 [![ADOBEILLUSTRATOR](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)](https://github.com/jeffersonsimaogoncalves)
 [![ADOBEPHOTOSHOP](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)](https://github.com/jeffersonsimaogoncalves)
@@ -32,6 +33,7 @@ Adoro novos desafios.
 [![CLOUDFLARE](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)](https://github.com/jeffersonsimaogoncalves)
 [![DIGITALOCEAN](https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white)](https://github.com/jeffersonsimaogoncalves)
 [![GITHUBACTIONS](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/jeffersonsimaogoncalves)
+[![cPanel Badge](https://img.shields.io/badge/cPanel-FF6C2C?logo=cpanel&logoColor=fff&style=for-the-badge)](https://github.com/jeffersonsimaogoncalves)
 
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://github.com/jeffersonsimaogoncalves)
 [![COMPOSER](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=Composer&logoColor=white)](https://github.com/jeffersonsimaogoncalves)
@@ -41,6 +43,7 @@ Adoro novos desafios.
 [![Livewire Badge](https://img.shields.io/badge/Livewire-4E56A6?logo=livewire&logoColor=fff&style=for-the-badge)](https://github.com/jeffersonsimaogoncalves)
 [![PACKAGIST](https://img.shields.io/badge/Packagist-F28D1A?style=for-the-badge&logo=Packagist&logoColor=white)](https://github.com/jeffersonsimaogoncalves)
 [![SYMFONY](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=Symfony&logoColor=white)](https://github.com/jeffersonsimaogoncalves)
+[![Zend Framework Badge](https://img.shields.io/badge/Zend%20Framework-68B604?logo=zendframework&logoColor=fff&style=for-the-badge)](https://github.com/jeffersonsimaogoncalves)
 
 [![MICROSOFT](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white)](https://github.com/jeffersonsimaogoncalves)
 [![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://github.com/jeffersonsimaogoncalves)
@@ -114,6 +117,8 @@ Adoro novos desafios.
 
 [![GOOGLEANALYTICS](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)](https://github.com/jeffersonsimaogoncalves)
 [![RFID](https://img.shields.io/badge/rfid%20-%2320232a?style=for-the-badge&logo=rfid)](https://github.com/jeffersonsimaogoncalves)
+[![Microsoft Teams Badge](https://img.shields.io/badge/Microsoft%20Teams-6264A7?logo=microsoftteams&logoColor=fff&style=for-the-badge)](https://github.com/jeffersonsimaogoncalves)
+[![JetBrains Badge](https://img.shields.io/badge/JetBrains-000?logo=jetbrains&logoColor=fff&style=for-the-badge)](https://github.com/jeffersonsimaogoncalves)
 
 ### Sistema Operacionais:
 

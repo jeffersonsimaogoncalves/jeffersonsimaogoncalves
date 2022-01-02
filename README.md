@@ -18,6 +18,7 @@ Adoro novos desafios.
 [![Linkedin](https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jeffersonsimaogoncalves/)
 [![Instagram](https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jeffersonsimaogoncalves/)
 [![Gmail](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:simao.stephanie@hotmail.com)
+[![TRELLO](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)](https://trello.com/jeffersonsimaogoncalves)
 [![Twitter](https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jsimaogoncalves)
 [![WakaTime Badge](https://img.shields.io/badge/WakaTime-000?logo=wakatime&logoColor=fff&style=for-the-badge)](https://wakatime.com/@jsimaogoncalves)
 [![Whatsapp](https://img.shields.io/badge/-Whatsapp-4AC959?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/message/L6YUTOXGTADNM1)
@@ -88,8 +89,6 @@ Adoro novos desafios.
 
 [![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://github.com/jeffersonsimaogoncalves)
 [![GITKRAKEN](https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white)](https://github.com/jeffersonsimaogoncalves)
-[![GITHUB](https://img.shields.io/badge/github%20-%2320232a.svg?&style=for-the-badge&logo=github)](https://github.com/jeffersonsimaogoncalves)
-[![GitLab Badge](https://img.shields.io/badge/GitLab-FCA121?logo=gitlab&logoColor=fff&style=for-the-badge)](https://github.com/jeffersonsimaogoncalves)
 
 [![NGINX](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)](https://github.com/jeffersonsimaogoncalves)
 [![DOCKER](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/jeffersonsimaogoncalves)
@@ -117,7 +116,6 @@ Adoro novos desafios.
 [![GOOGLESHEETS](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)](https://github.com/jeffersonsimaogoncalves)
 [![MICROSOFTOFFICE](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)](https://github.com/jeffersonsimaogoncalves)
 [![Microsoft Teams Badge](https://img.shields.io/badge/Microsoft%20Teams-6264A7?logo=microsoftteams&logoColor=fff&style=for-the-badge)](https://github.com/jeffersonsimaogoncalves)
-[![TRELLO](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)](https://github.com/jeffersonsimaogoncalves)
 
 [![RFID](https://img.shields.io/badge/rfid%20-%2320232a?style=for-the-badge&logo=rfid)](https://github.com/jeffersonsimaogoncalves)
 [![MARKDOWN](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://github.com/jeffersonsimaogoncalves)

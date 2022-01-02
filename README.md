@@ -8,6 +8,8 @@ Sou programador de aplicativos, sistemas, sites. Trabalho com diversas tecnologi
 
 Adoro novos desafios.
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjeffersonsimaogoncalves&count_bg=%23FE6E96&title_bg=%23282A36&icon=&icon_color=%23E7E7E7&title=Perfil+Visualiza%C3%A7%C3%B5es&edge_flat=true)](https://github.com/jeffersonsimaogoncalves)
+
 ## Meus contatos:
 
 [![Facebook](https://img.shields.io/badge/facebook-005FED.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/jefferson.simao.goncalves/)

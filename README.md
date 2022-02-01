@@ -127,6 +127,7 @@ Adoro novos desafios.
 ## Sistema Operacionais:
 
 [![ANDROID](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/jeffersonsimaogoncalves)
+[![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)](https://github.com/jeffersonsimaogoncalves)
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/jeffersonsimaogoncalves)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://github.com/jeffersonsimaogoncalves)
 [![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)](https://github.com/jeffersonsimaogoncalves)

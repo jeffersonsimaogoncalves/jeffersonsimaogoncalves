@@ -132,7 +132,7 @@ Adoro novos desafios.
 [![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)](https://github.com/jeffersonsimaogoncalves)
 [![Linux](https://img.shields.io/badge/Linux-yellow?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/jeffersonsimaogoncalves)
 [![CENTOS](https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white)](https://github.com/jeffersonsimaogoncalves)
-[![CENTOS](https://img.shields.io/badge/MacOS--9cf?style=for-the-badge&logo=Apple&logoColor=white)](https://github.com/jeffersonsimaogoncalves)
+[![MAC OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)](https://github.com/jeffersonsimaogoncalves)
 
 ## Ambiente de desenvolvimento:
 

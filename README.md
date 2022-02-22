@@ -152,4 +152,4 @@ Adoro novos desafios.
 
 [![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=jsimaogoncalves&theme=dracula&hide_title=true&hide_border=true)](https://github.com/jeffersonsimaogoncalves)
 
-[![Metrics](https://metrics.lecoq.io/jeffersonsimaogoncalves?template=classic&repositories.forks=true&base.header=0&languages=1&isocalendar=1&projects=1&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&projects.limit=4&projects.descriptions=false&config.timezone=America%2FSao_Paulo)](https://github.com/jeffersonsimaogoncalves)
+[![Metrics](/github-metrics.svg)](https://github.com/jeffersonsimaogoncalves)

@@ -41,4 +41,7 @@ jobs:
           plugin_languages_threshold: 0%
           plugin_projects: no
           plugin_projects_limit: 4
+          plugin_habits: yes
+          plugin_habits_facts: no
+          plugin_habits_charts: yes
           repositories_forks: yes

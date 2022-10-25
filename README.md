@@ -150,6 +150,4 @@ Adoro novos desafios.
 
 [![GitHub Stats Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonsimaogoncalves&langs_count=15&theme=dracula&hide_title=true&layout=compact&hide_border=true)](https://github.com/jeffersonsimaogoncalves)
 
-[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=jsimaogoncalves&theme=dracula&hide_title=true&hide_border=true)](https://github.com/jeffersonsimaogoncalves)
-
 [![Metrics](/github-metrics.svg)](https://github.com/jeffersonsimaogoncalves)

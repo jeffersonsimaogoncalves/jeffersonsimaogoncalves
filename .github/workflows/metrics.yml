@@ -12,7 +12,8 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: Metricas
+        uses: lowlighter/metrics@latest
         with:
           # Your GitHub token
           # The following scopes are required:
@@ -60,16 +61,8 @@ jobs:
           plugin_projects: yes
           plugin_projects_limit: 4
           repositories_forks: yes
-          
-      - name: Current year calendar
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.calendar.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_calendar: yes
 
-      - name: Full history calendar
+      - name: Minhas Contribuições
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.calendar.full.svg

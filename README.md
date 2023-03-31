@@ -143,3 +143,5 @@ Adoro novos desafios.
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jeffersonsimaogoncalves&theme=dracula&hide_border=true&date_format=j%2Fn%5B%2FY%5D)](https://github.com/jeffersonsimaogoncalves)
 
 [![Metrics](/github-metrics.svg)](https://github.com/jeffersonsimaogoncalves)
+
+[![Calendar](/metrics.plugin.calendar.full.svg)](https://github.com/jeffersonsimaogoncalves)

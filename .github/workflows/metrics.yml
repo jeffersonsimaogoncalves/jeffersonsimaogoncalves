@@ -13,7 +13,7 @@ jobs:
       contents: write
     steps:
       - name: Metricas
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@v3.32
         with:
           # Your GitHub token
           # The following scopes are required:

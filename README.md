@@ -23,4 +23,4 @@ Adoro novos desafios.
 
 [![Wakapi](https://github-readme-stats.vercel.app/api/wakatime?username=jeffersonsimaogoncalves&api_domain=wakapi.dev&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact)](https://github.com/jeffersonsimaogoncalves)<br/>
 ![Jefferson's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeffersonsimaogoncalves&theme=dracula&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)<br/>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jeffersonsimaogoncalves&theme=dracula&hide_border=true&date_format=j%2Fn%5B%2FY%5D)](https://github.com/jeffersonsimaogoncalves)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=jeffersonsimaogoncalves&theme=dracula&hide_border=true&date_format=j%2Fn%5B%2FY%5D)](https://github.com/jeffersonsimaogoncalves)

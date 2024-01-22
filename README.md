@@ -22,5 +22,5 @@ Adoro novos desafios.
 ## Minhas Atividades:
 
 [![Wakapi](https://github-readme-stats.vercel.app/api/wakatime?username=jeffersonsimaogoncalves&api_domain=wakapi.dev&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact)](https://github.com/jeffersonsimaogoncalves)<br/>
-![Jefferson's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeffersonsimaogoncalves&theme=dracula&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)<br/>
-[![GitHub Streak](https://streak-stats.demolab.com?user=jeffersonsimaogoncalves&theme=dracula&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&type=png&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true)]([https://git.io/streak-stats](https://github.com/jeffersonsimaogoncalves)https://github.com/jeffersonsimaogoncalves)
+[![Jefferson's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeffersonsimaogoncalves&theme=dracula&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/jeffersonsimaogoncalves)<br/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=jeffersonsimaogoncalves&theme=dracula&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&type=png&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true)](https://github.com/jeffersonsimaogoncalves)
